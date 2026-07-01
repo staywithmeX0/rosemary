@@ -1,0 +1,7 @@
+{
+  "name":"rosemalicious-luxury-line",
+  "version":"1.0.0",
+  "dependencies":{
+    "@line/bot-sdk":"^9.7.0"
+  }
+}
